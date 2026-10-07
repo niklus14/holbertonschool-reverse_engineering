@@ -1,0 +1,1 @@
+readelf -S task1 | grep -A1 ".hbtn-custom"
